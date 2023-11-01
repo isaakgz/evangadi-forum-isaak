@@ -37,7 +37,7 @@ To get started with Evangadi Forum, follow these steps:
 4. Start the application:
 
    ```bash
-   npm start dev
+   npm run dev
    ```
 
 ## Usage
